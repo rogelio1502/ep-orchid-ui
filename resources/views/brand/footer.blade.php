@@ -1,4 +1,4 @@
-<p class="small m-n text-white must-be-hide d-none overflow-scroll">
+<p class="small m-n text-white overflow-scroll">
     © Copyright {{date('Y')}}
 
     <a href="{{ env('ECOMMERCE_URL') }}" target="_blank"> {{env('ECOMMERCE_NAME')}} </a>
