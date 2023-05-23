@@ -18,7 +18,7 @@
     "psr-4": {
       "EP\\Components\\": "src/EP/Components/",
       "EP\\Providers\\": "src/EP/Providers/",
-      "EP\\Screens\\Fields": "src/EP/Screens/Fields/"
+      "EP\\Screens\\Fields\\": "src/EP/Screens/Fields/"
     }
   },
   "extra": {
