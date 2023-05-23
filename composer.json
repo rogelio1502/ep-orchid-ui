@@ -1,0 +1,30 @@
+{
+  "name": "rogelio1502/ep-orchid-ui",
+  "description": "EP Orchid UI package",
+  "type": "library",
+  "require": {
+    "php": ">=8.0",
+    "orchid/platform": "^13.9"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Rogelio Torres Pasillas",
+      "email": "rogelio15021515@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "EP\\Components\\": "src/EP/Components/",
+      "EP\\Providers\\": "src/EP/Providers/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "EP\\Providers\\EpServiceProvider"
+      ]
+    }
+  }
+}
