@@ -19,6 +19,7 @@
     "@hotwired/stimulus-webpack-helpers": "^1.0.1",
     "@hotwired/turbo": "^7.2.0",
     "laravel-mix": "^6.0.49",
+    "simplemde": "^1.11.2",
     "tom-select": "^2.2.2",
     "vue": "^3.2.47"
   }
