@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace EP\Screens\Fields;
+namespace EP\Screen\Fields;
 
 use Orchid\Screen\Field;
 
